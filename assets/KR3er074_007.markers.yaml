@@ -7102,6 +7102,7 @@ markers:
   - {type: punctuation, offset: 15451, content: 。, id: KR3er074_jc_007-bkkpn3545}
   - {type: 'tls:seg', offset: 15451, content: '', id: KR3er074_jc_007-d11.d3.p92s94}
   - {type: punctuation, offset: 15451, content: (, id: KR3er074_jc_007-bkkpn3546}
+  - {type: voice, offset: 15451, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 15453, content: ), id: KR3er074_jc_007-bkkpn3547}
   - {type: xml-element, offset: 15453, content: '', id: KR3er074_jc_007-d11.d3p92_end, name: p, role: close, attrs: {'xml:id': KR3er074_jc_007-d11.d3p92}}
   - {type: xml-element, offset: 15453, content: '', id: KR3er074_jc_007-d11.d3p94, name: p, role: open, attrs: {'xml:id': KR3er074_jc_007-d11.d3p94}}
@@ -8083,6 +8084,7 @@ markers:
   - {type: 'tls:seg-end', offset: 17455, content: '', id: KR3er074_jc_007-d11.d3.p134s2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 17455, content: '', id: KR3er074_jc_007-d11.d3.p134s3}
   - {type: punctuation, offset: 17458, content: (, id: KR3er074_jc_007-bkkpn3984}
+  - {type: voice, offset: 17458, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 17460, content: ), id: KR3er074_jc_007-bkkpn3985}
   - {type: 'tls:seg', offset: 17460, content: '', id: KR3er074_jc_007-d11.d3.p134s4}
   - {type: 'tls:seg-start', offset: 17461, content: '', id: KR3er074_jc_007-d11.d3.p134s5, seg_type: comm, member_ids: [KR3er074_jc_007-d11.d3.p134s5]}
@@ -8134,6 +8136,7 @@ markers:
   - {type: xml-element, offset: 17501, content: '', id: KR3er074_jc_007-d11.d3p142, name: p, role: open, attrs: {'xml:id': KR3er074_jc_007-d11.d3p142}}
   - {type: 'tls:seg', offset: 17501, content: '', id: KR3er074_jc_007-d11.d3.p142s1}
   - {type: punctuation, offset: 17503, content: (, id: KR3er074_jc_007-bkkpn4000}
+  - {type: voice, offset: 17503, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 17505, content: ), id: KR3er074_jc_007-bkkpn4001}
   - {type: 'tls:seg', offset: 17505, content: '', id: KR3er074_jc_007-d11.d3.p142s2}
   - {type: 'tls:seg-start', offset: 17508, content: '', id: KR3er074_jc_007-d11.d3.p142s3, seg_type: comm, member_ids: [KR3er074_jc_007-d11.d3.p142s3]}
@@ -8155,6 +8158,7 @@ markers:
   - {type: xml-element, offset: 17520, content: '', id: KR3er074_jc_007-d11.d3p146, name: p, role: open, attrs: {'xml:id': KR3er074_jc_007-d11.d3p146}}
   - {type: 'tls:seg', offset: 17520, content: '', id: KR3er074_jc_007-d11.d3.p146s1}
   - {type: punctuation, offset: 17522, content: (, id: KR3er074_jc_007-bkkpn4007}
+  - {type: voice, offset: 17522, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 17524, content: ), id: KR3er074_jc_007-bkkpn4008}
   - {type: 'tls:seg', offset: 17524, content: '', id: KR3er074_jc_007-d11.d3.p146s2}
   - {type: 'tls:seg-start', offset: 17527, content: '', id: KR3er074_jc_007-d11.d3.p146s3, seg_type: comm, member_ids: [KR3er074_jc_007-d11.d3.p146s3]}
@@ -8182,6 +8186,7 @@ markers:
   - {type: xml-element, offset: 17544, content: '', id: KR3er074_jc_007-d11.d3p150, name: p, role: open, attrs: {'xml:id': KR3er074_jc_007-d11.d3p150}}
   - {type: 'tls:seg', offset: 17544, content: '', id: KR3er074_jc_007-d11.d3.p150s1}
   - {type: punctuation, offset: 17547, content: (, id: KR3er074_jc_007-bkkpn4016}
+  - {type: voice, offset: 17547, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 17549, content: ), id: KR3er074_jc_007-bkkpn4017}
   - {type: 'tls:seg', offset: 17549, content: '', id: KR3er074_jc_007-d11.d3.p150s2}
   - {type: 'tls:seg-start', offset: 17552, content: '', id: KR3er074_jc_007-d11.d3.p150s3, seg_type: comm, member_ids: [KR3er074_jc_007-d11.d3.p150s3]}
@@ -9691,4 +9696,4 @@ markers:
   - {type: 'tls:seg-end', offset: 20860, content: '', id: KR3er074_jc_007-d11.d4.p2s1_end, seg_type: comm}
   - {type: xml-element, offset: 20860, content: '', id: KR3er074_jc_007-d11.d4p2_end, name: p, role: close, attrs: {'xml:id': KR3er074_jc_007-d11.d4p2}}
   back: []
-hash: sha256:ac681b03d9163902df49bab7358508f6b0e09dc11f8079240aa75adc899d9a27
+hash: sha256:c20551998bed26bc80803d7716e6c925f401541f82e37edee2f9fc340c42a035
