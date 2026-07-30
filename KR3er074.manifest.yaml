@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er074_000.yaml, hash: 'sha256:7bb7773c1a1823ad40ae51301086218dddaaa6a5f2a63d5552ddf305fc377281'}
+  - {seq: 0, filename: KR3er074_000.yaml, hash: 'sha256:cf0996aaf21cba66cb1493202f19672be5c4be87dc985d0e06df7e3a6fa283b1'}
   - {seq: 1, filename: KR3er074_001.yaml, hash: 'sha256:3ae6265ddcc109076a264e13fa35de85ea670d1d4a9fdc962afce9f0ae89ed0a'}
   - {seq: 2, filename: KR3er074_002.yaml, hash: 'sha256:6ec29690074c2133da913307eb121d3a280019671e97090796c90332716e0f3d'}
   - {seq: 3, filename: KR3er074_003.yaml, hash: 'sha256:ca6978fc63ca536a7c0e3b451307466f97a8db070a9b51444659c29920cceb68'}
@@ -58,9 +58,9 @@ assets:
   - {seq: 38, filename: KR3er074_038.yaml, hash: 'sha256:52c0eb4369f5a343181799b1e58e6e49d54a5521d627c0506519c0174b12a459'}
   - {seq: 39, filename: KR3er074_039.yaml, hash: 'sha256:45497e11b1d984c09d962ef0a747d52ab50b41c49eaf8d0e1a6a3ab915c33e04'}
   - {seq: 40, filename: KR3er074_040.yaml, hash: 'sha256:20e91cd70f094bd041f66cf37e06c88deab0a0b7200194f5cf765e659c4dabac'}
-  - {seq: 0, filename: KR3er074_000.yaml, hash: 'sha256:7bb7773c1a1823ad40ae51301086218dddaaa6a5f2a63d5552ddf305fc377281'}
+  - {seq: 0, filename: KR3er074_000.yaml, hash: 'sha256:cf0996aaf21cba66cb1493202f19672be5c4be87dc985d0e06df7e3a6fa283b1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er074_000.markers.yaml, hash: 'sha256:e84ef1e62e630e4eea7358637040ddc770899794f6325aa0422a9845331a7e92'}
+  - {seq: 0, role: markers, filename: assets/KR3er074_000.markers.yaml, hash: 'sha256:04033ffd8005dc733ca8eff4e3000955747267d62353206379f2eb114761ffcf'}
   - {seq: 1, role: markers, filename: assets/KR3er074_001.markers.yaml, hash: 'sha256:d3cc7782ed082cc7a50075463ace8e699a5615bce7ac7deed3f9c5c1b31089f2'}
   - {seq: 2, role: markers, filename: assets/KR3er074_002.markers.yaml, hash: 'sha256:87be0f48b23b3f27b0a34dd2e657cbebd0a8044ae4c052fcf417e3b674a7999a'}
   - {seq: 3, role: markers, filename: assets/KR3er074_003.markers.yaml, hash: 'sha256:a3640c0b0ca106ff5d3dcc1362a31cb5c02a8f7b67dc128058f2b34b0b26d025'}
@@ -106,7 +106,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er074_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 732
   label: 曹序
@@ -116,7 +116,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er074_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 732
     - 1685
   label: 自序
@@ -126,7 +126,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er074_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1685
     - 2071
   label: 序例
@@ -7856,7 +7856,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er074_jc_000-d45.h1s1
     span:
-    - front
+    - body
     - 0
     - 1725
   label: 內經運氣類注序文
@@ -7866,7 +7866,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er074_jc_000-d46.h1s1
     span:
-    - front
+    - body
     - 1725
     - 2379
   label: 運氣占候補遺序
@@ -7877,8 +7877,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47.h1s1
     span:
     - body
-    - 0
-    - 5326
+    - 2379
+    - 7705
   label: 運氣占候
   type: section
   level: 1
@@ -7887,8 +7887,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d2
     span:
     - body
-    - 4
-    - 438
+    - 2383
+    - 2817
   label: 五運氣至之占
   type: section
   level: 2
@@ -7897,8 +7897,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d3
     span:
     - body
-    - 438
-    - 815
+    - 2817
+    - 3194
   label: 五運太過之占
   type: section
   level: 2
@@ -7907,8 +7907,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d4
     span:
     - body
-    - 815
-    - 1409
+    - 3194
+    - 3788
   label: 五運不及之占
   type: section
   level: 2
@@ -7917,8 +7917,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d5
     span:
     - body
-    - 1409
-    - 1666
+    - 3788
+    - 4045
   label: 復氣應時占
   type: section
   level: 2
@@ -7927,8 +7927,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d6
     span:
     - body
-    - 1666
-    - 2388
+    - 4045
+    - 4767
   label: 五星應化占
   type: section
   level: 2
@@ -7937,8 +7937,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d7
     span:
     - body
-    - 2388
-    - 2639
+    - 4767
+    - 5018
   label: 五氣動亂占
   type: section
   level: 2
@@ -7947,8 +7947,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d8
     span:
     - body
-    - 2639
-    - 3216
+    - 5018
+    - 5595
   label: 五氣鬱發占
   type: section
   level: 2
@@ -7957,8 +7957,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d9
     span:
     - body
-    - 3216
-    - 3364
+    - 5595
+    - 5743
   label: 地理高下左右占
   type: section
   level: 2
@@ -7967,8 +7967,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d10
     span:
     - body
-    - 3364
-    - 3942
+    - 5743
+    - 6321
   label: 六氣正變占
   type: section
   level: 2
@@ -7977,8 +7977,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d11
     span:
     - body
-    - 3942
-    - 4051
+    - 6321
+    - 6430
   label: 在泉淫勝占
   type: section
   level: 2
@@ -7987,8 +7987,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d12
     span:
     - body
-    - 4051
-    - 4184
+    - 6430
+    - 6563
   label: 司天淫勝占
   type: section
   level: 2
@@ -7997,8 +7997,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d13
     span:
     - body
-    - 4184
-    - 4278
+    - 6563
+    - 6657
   label: 佔六氣之勝
   type: section
   level: 2
@@ -8007,8 +8007,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d14
     span:
     - body
-    - 4278
-    - 4376
+    - 6657
+    - 6755
   label: 佔六氣之復
   type: section
   level: 2
@@ -8017,8 +8017,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d15
     span:
     - body
-    - 4376
-    - 4911
+    - 6755
+    - 7290
   label: 釋亢則害承乃制
   type: section
   level: 2
@@ -8027,8 +8027,8 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d47d16
     span:
     - body
-    - 4911
-    - 5326
+    - 7290
+    - 7705
   label: 釋病機十九條
   type: section
   level: 2
@@ -8037,12 +8037,12 @@ table_of_contents:
     marker_id: KR3er074_jc_000-d48.h1s1
     span:
     - body
-    - 5326
-    - 5494
+    - 7705
+    - 7873
   label: 邵跋
   type: section
   level: 1
-hash: sha256:618f276219cee55cf180a14c8972962634da27a6d300276f717e24be8f6fd3c1
+hash: sha256:aa0a14f5f378b5a17da7f252cf26a7ef181b91f508980b5ba79925c92258069d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
